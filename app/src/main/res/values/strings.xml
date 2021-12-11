@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">bisexual house</string>
+    <string name="app_name">buyhouse</string>
+    <string name="platform">platform</string>
+    <string name="yapokupatel">Я покупатель</string>
+    <string name="email_optom">Email</string>
+    <string name="nachat">Начать работать!</string>
+    <string name="registr">Регистрация</string>
+    <string name="alreadyhaveanacc">Уже есть аккаунт</string>
+    <string name="fio">ФИО</string>
+    <string name="country">Страна</string>
+    <string name="phone">Телефон</string>
+    <string name="email">Email</string>
+    <string name="parol">Пароль</string>
+    <string name="done">Готово</string>
+    <string name="vopros">Вы являетесь продавцом или покупателем?</string>
+    <string name="pocupatel">Я покупатель</string>
+    <string name="prodavec">Я продавец</string>
+    <string name="prod">Продать потом</string>
+    <string name="client">Находите новых клиентов ежедневно на нашей платформе!</string>
+    <string name="what">Что хотите продать?</string>
+    <string name="phone1">Телефон</string>
+    <string name="email">Email</string>
+    <string name="find">Найти клиентов</string>
+    <string name="back">back</string>
 </resources>

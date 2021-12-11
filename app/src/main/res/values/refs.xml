@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="msg510130213_233067_1">logo</drawable>
+    <drawable name="rounded_new">pokupatel</drawable>
+    <drawable name="backicon">back</drawable>
+    <drawable name="rounded">find_cllient</drawable>
+    <drawable name="border">border</drawable>
+</resources>
